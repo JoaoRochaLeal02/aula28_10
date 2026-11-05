@@ -14,4 +14,4 @@ jobs:
       - name: Executar validação automatizada
         run: |
           echo "Verificando estrutura e qualidade do código..."
-          echo "Validação concluída com sucesso!"A
+          echo "Validação concluída com sucesso!"
